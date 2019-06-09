@@ -1,4 +1,4 @@
-This is a solution for project 2 of Udacity deep reinforcement learning.
+This is a solution for project 2 of Udacity deep reinforcement learning. This repository based on [Udacity's deep-reinforcement-learning repository](https://github.com/udacity/deep-reinforcement-learning).
 
 ## Project Details
 The purpose of this project is solving [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
