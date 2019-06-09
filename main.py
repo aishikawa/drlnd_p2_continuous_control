@@ -9,7 +9,7 @@ from unityagents import UnityEnvironment
 from ddpg_agent import Agent
 
 
-env = UnityEnvironment(file_name='Reacher20_Linux_NoVis/Reacher.x86_64')
+env = UnityEnvironment(file_name='reacher/Reacher.x86_64')
 
 brain_name = env.brain_names[0]
 brain = env.brains[brain_name]
